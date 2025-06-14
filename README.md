@@ -43,21 +43,21 @@ Repositório com as soluções da lista de exercícios da disciplina de Programa
 
 ```
 resolucoes/
- lais/
-    │─parte1/
-    │ └── questao1/
-    │ └── index.php
-    ├─parte2/
-    │ └── questao2/
-    │ └── index.php
-    └── parte3/
-      ├── questao2/
-      │ └── index.php
-      ├── questao3/
-      │ └── index.php
-      └── questao13/
-        └── index.php
-```
+lais/
+│─parte1/
+│ └── questao1/
+│ └── index.php
+├─parte2/
+│ └── questao2/
+│ └── index.php
+└── parte3/
+├── questao2/
+│ └── index.php
+├── questao3/
+│ └── index.php
+└── questao13/
+└── index.php
+
 
 ---
 
@@ -70,11 +70,27 @@ resolucoes/
 
 ---
 
+## 🚀 Melhorias Extras Implementadas
+
+Além do que foi ensinado nas aulas, algumas boas práticas e melhorias foram aplicadas nas respostas para garantir maior qualidade de código e usabilidade:
+
+- ✅ Inclusão de validações HTML com `required` para evitar envios de formulários incompletos.
+- ✅ Conversão de valores com `intval()` e `floatval()` no PHP, para garantir que os cálculos sejam feitos com dados numéricos.
+- ✅ Formatação de valores monetários usando `number_format()` para exibir resultados no padrão brasileiro (exemplo: `R$ 45,00`).
+- ✅ Tratamento de casos de entrada inválida (exemplo: início maior que o fim em intervalos numéricos).
+- ✅ Adição da tag `<meta charset="UTF-8">` para garantir que caracteres com acento sejam exibidos corretamente.
+- ✅ Organização de código com indentação e boas práticas de legibilidade.
+
+Essas melhorias foram aplicadas para tornar os códigos mais robustos e profissionais.
+
+---
+
 ## ✅ Pull Request
 
 Após finalizar todas as questões, será criado um Pull Request para o repositório oficial:
 
 [https://github.com/mirandathiago/lista-programacao-web2](https://github.com/mirandathiago/lista-programacao-web2)
 
-O usuario consumidor conterá esta descrição como guia para facilitar a correção. beijinhos da lai :)
+O usuário consumidor conterá esta descrição como guia para facilitar a correção.
 
+Beijinhos da Lai 😊
