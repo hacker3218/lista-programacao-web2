@@ -44,20 +44,20 @@ Repositório com as soluções da lista de exercícios da disciplina de Programa
 ```
 resolucoes/
 lais/
-│─parte1/
-│ └── questao1/
-│ └── index.php
+├─parte1/
+│  └── questao1/
+│      └── index.php
 ├─parte2/
-│ └── questao2/
-│ └── index.php
-└── parte3/
-├── questao2/
-│ └── index.php
-├── questao3/
-│ └── index.php
-└── questao13/
-└── index.php
-
+│  └── questao2/
+│      └── index.php
+└─parte3/
+   ├── questao2/
+   │   └── index.php
+   ├── questao3/
+   │   └── index.php
+   └── questao13/
+       └── index.php
+```
 
 ---
 
