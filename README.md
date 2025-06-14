@@ -1,17 +1,80 @@
-# Lista de Exercícios da Disciplina de Programação Web II do IFBA Campus Brumado
+# Lista de Exercícios – Programação Web II (2025)
 
-Esta lista tem 35 questões divididas em 3 partes. No total você deve escolher 10 questões para serem feitas, sendo que devem ser escolhidas 1 questão da parte 1, 4 questões da parte 2 (Sendo Obrigatória ao menos 1 sendo resolvida com Switch e 1 Sendo resolvida com IF, ELSEIF, ELSE), 5 questões da parte 3 (Sendo obrigatória ao menos 1 questão sendo resolvida com FOR, 1 Questão sendo resolvida com WHILE, 1 Questão Sendo resolvida com FOREACH).
+Repositório com as soluções da lista de exercícios da disciplina de Programação Web II, conforme instruções do professor Thiago Miranda.
 
+**Aluno:** Lais  
+**Data de entrega:** 15/06/2025  
+**Apresentação:** 16/06/2025
 
-## A Avaliação da lista será composta por duas etapas:
+---
 
-- Etapa 1: 5 pontos -> 0,5 por questão.
-- Etapa 2: Apresentação e Explicação de uma das 10 questões escolhidas a ser sorteada: 5 pontos . 
-**Obs: Caso você tenha algum problema em apresentar aos colegas, pode procurar o professor uma semana antes para explicar a situação e agendar uma apresentação individual, mas só em casos comprovados de necessidade.**
+## 📋 Instruções atendidas
 
-### Data de Apresentação: 16/06
-### Data da Entrega: 15/06
+- [x] 1 questão da **Parte 1**
+- [x] 1 questão da **Parte 2** (mínimo exigido: 4 — em andamento)
+- [x] 3 questões da **Parte 3** (mínimo exigido: 5 — em andamento)
+- [x] Estrutura organizada por partes e questões
+- [x] Formulários funcionais com cálculos em PHP
 
-- Forma de apresentação: Abrir o código desenvolvido e explicar o que e como foi feito de forma clara e objetiva. Em seguida deverá demonstrar o funcionamento. O Professor poderá questionar a qualquer momento da explicação.
+---
 
+## ✅ Questões resolvidas
+
+### 📂 Parte 1
+| Questão | Tema                         | Estrutura         |
+|--------:|------------------------------|-------------------|
+| 1       | Cálculo de desconto (10%)    | Formulário, cálculo |
+
+### 📂 Parte 2
+| Questão | Tema                             | Estrutura         |
+|--------:|----------------------------------|-------------------|
+| 2       | Conta de energia elétrica        | `if / elseif / else` |
+
+### 📂 Parte 3
+| Questão | Tema                              | Estrutura    |
+|--------:|-----------------------------------|--------------|
+| 2       | Tabuada                           | `while`      |
+| 3       | Contar números pares              | `for`        |
+| 13      | Exibir array de produtos          | `foreach`    |
+
+---
+
+## 📁 Organização de pastas
+
+```
+resolucoes/
+└── lais/
+    ├── parte1/
+    │   └── questao1/
+    │       └── index.php
+    ├── parte2/
+    │   └── questao2/
+    │       └── index.php
+    └── parte3/
+        ├── questao2/
+        │   └── index.php
+        ├── questao3/
+        │   └── index.php
+        └── questao13/
+            └── index.php
+```
+
+---
+
+## 📝 Observações
+
+- Cada questão foi separada em sua respectiva pasta conforme a estrutura fornecida pelo repositório modelo.
+- Os códigos utilizam as estruturas exigidas pela lista (`if`, `while`, `for`, `foreach`).
+- Todos os formulários possuem entrada do usuário e exibem resultados corretamente.
+- Algumas questões adicionais serão adicionadas para cumprir o total de 10 exigidas.
+
+---
+
+## ✅ Pull Request
+
+Após finalizar todas as questões, será criado um Pull Request para o repositório oficial:
+
+[https://github.com/mirandathiago/lista-programacao-web2](https://github.com/mirandathiago/lista-programacao-web2)
+
+O PR conterá esta descrição como guia para facilitar a correção.
 
