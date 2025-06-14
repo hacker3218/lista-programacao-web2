@@ -76,5 +76,5 @@ Após finalizar todas as questões, será criado um Pull Request para o reposit�
 
 [https://github.com/mirandathiago/lista-programacao-web2](https://github.com/mirandathiago/lista-programacao-web2)
 
-O PR conterá esta descrição como guia para facilitar a correção.
+O usuario consumidor conterá esta descrição como guia para facilitar a correção. beijinhos da lai :)
 
